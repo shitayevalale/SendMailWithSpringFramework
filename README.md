@@ -1,0 +1,2 @@
+# SendMailWithSpringFramework
+Mail Sending
